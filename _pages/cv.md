@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae (CV)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Biomedical Engineering, Columbia University, 2024 (expected)
+* M.S. in Biomedical Engineering, Columbia University, 2021
+* B.A. in Mathematics and Economics (dual degree), Baruch College, City University of New York, 2018
 
-Work experience
+Research Experience (since 2020)
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Greduate Research Assistant, Columbia University, Jun 2019 -- Present
+  * <i>[Laboratory for Intelligent Imaging and Neural Computing (LIINC)](https://liinc.bme.columbia.edu)</i>, PI: [Dr. Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda)
+  * <b>Main focus</b>: simultaneous fMRI-EEG-TMS and EEG-rTMS systems, neuromodulation, bioinformatics, brain computer interface (BCI)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* Research Assistant, Columbia University & New York State Psychiatric Institude, Dec 2017 -- Dec 2022
+  * <i>Global Psychiatric Epidemiology Group (GPEG)</i>, PI: [Dr. Christina Hoven](https://www.columbiapsychiatry.org/profile/christina-hoven-phd)
+  * <b>Main focus</b>: imaging analysis, statistical modeling of decision-making, experiment design
+
+* Research Assistant, Columbia University, Mar 2020 -- Sep 2020 
+  * <i>[Kellendonk Lab](https://www.kellendonklab.org)</i>, PI: [Dr. Christoph Kellendonk](https://www.columbiapsychiatry.org/profile/christoph-kellendonk-phd)
+  * <b>Main focus</b>: DeepLabCut, animal behavioral modeling 
+
+Patents
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Application number: 18054447, Closed-loop simultaneous functional magnetic resonance imaging (fMRI)- electroencephalogram (EEG)- transcranial magnetic stimulation (TMS) system.
 
 Publications
 ======
@@ -53,7 +50,19 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Honors & Awards (since 2020)
 ======
-* Currently signed in to 43 different slack teams
+* <b>2023</b>  IEEE BHI’23 National Science Foundation (NSF) Student Travel Award
+* <b>2023</b>  Selected as 2023 Cohorts of Columbia’s Program for for Diversity and Inclusion in Commercialization and Entrepreneurship (DICE) 
+* <b>2023</b>  Young Scientist, 49th Northeastern Biomedical Engineering Conference
+* <b>2023</b>  Abstract Promotion - Outreach to the Press, American Physical Society (APS2023)
+* <b>2021</b>  1st prize, BMB’ 2021 Student Best Poster Award
+* <b>2020</b>  Data Institute Scholarship, Data Science Institute (DSI) Scholars Program
+
+Service & Leadership (since 2020)
+======
+* University Life Ambassador, University Life, Aug 2023 – Present
+* IEEE Student Ambassador, IEEEXtreme17.0, May 2023 – Present
+* Department Representative, Engineering Graduate Student Council (EGSC), Jan 2023 – Jun 2023
+* Treasurer, Graduate Society of Women Engineers (GradSWE), Jan 2020 – Dec 2020
