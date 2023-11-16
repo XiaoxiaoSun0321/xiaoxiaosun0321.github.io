@@ -31,7 +31,7 @@ Research Experience (since 2020)
 
 Patents
 ======
-* Application number: 18054447, Closed-loop simultaneous functional magnetic resonance imaging (fMRI)- electroencephalogram (EEG)- transcranial magnetic stimulation (TMS) system.
+* [Application number: 18054447](https://patents.google.com/patent/US20230143233A1/en), Closed-loop simultaneous functional magnetic resonance imaging (fMRI)- electroencephalogram (EEG)- transcranial magnetic stimulation (TMS) system.
 
 Publications
 ======
