@@ -66,3 +66,5 @@ Service & Leadership (since 2020)
 * IEEE Student Ambassador, IEEEXtreme17.0, May 2023 – Present
 * Department Representative, Engineering Graduate Student Council (EGSC), Jan 2023 – Jun 2023
 * Treasurer, Graduate Society of Women Engineers (GradSWE), Jan 2020 – Dec 2020
+
+Please feel free to [contact me](xiaoxiao.sun@columbia.edu) for my detailed CV.
