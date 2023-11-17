@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Biomedical Engineering, Columbia University, 2024 (expected)
+* Ph.D. in Biomedical Engineering, Columbia University, TBD
 * M.S. in Biomedical Engineering, Columbia University, 2021
 * B.A. in Mathematics and Economics (dual degree), Baruch College, City University of New York, 2018
 
