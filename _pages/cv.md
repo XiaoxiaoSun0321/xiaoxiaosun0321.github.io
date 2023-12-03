@@ -63,7 +63,7 @@ Honors & Awards (since 2020)
 Service & Leadership (since 2020)
 ======
 * University Life Ambassador, University Life, Aug 2023 – Present
-* IEEE Student Ambassador, IEEEXtreme17.0, May 2023 – Present
+* IEEE Student Ambassador, IEEEXtreme17.0, May 2023 – Oct 2023
 * Department Representative, Engineering Graduate Student Council (EGSC), Jan 2023 – Jun 2023
 * Treasurer, Graduate Society of Women Engineers (GradSWE), Jan 2020 – Dec 2020
 
