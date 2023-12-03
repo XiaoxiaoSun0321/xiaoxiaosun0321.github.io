@@ -22,7 +22,7 @@ Research Experience (since 2020)
   * <b>Main focus</b>: simultaneous fMRI-EEG-TMS and EEG-rTMS systems, neuromodulation, bioinformatics, brain computer interface (BCI)
 
 * Research Assistant, Columbia University & New York State Psychiatric Institude, Dec 2017 -- Dec 2022
-  * <i>Global Psychiatric Epidemiology Group (GPEG)</i>, PI: [Dr. Christina Hoven](https://www.columbiapsychiatry.org/profile/christina-hoven-phd)
+  * <i>[Global Psychiatric Epidemiology Group (GPEG)](https://childadolescentpsych.cumc.columbia.edu/professionals/research-programs/global-psychiatric-epidemiology-group-gpeg/gpeg-members)</i>, PI: [Dr. Christina Hoven](https://www.columbiapsychiatry.org/profile/christina-hoven-phd)
   * <b>Main focus</b>: imaging analysis, statistical modeling of decision-making, experiment design
 
 * Research Assistant, Columbia University, Mar 2020 -- Sep 2020 
