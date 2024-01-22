@@ -1,7 +1,7 @@
 ---
-permalink: /terms/
-title: "Terms and Privacy Policy"
-modified: 2016-06-06
+permalink: /posters/
+title: "Poster Presentations"
+modified: 2024-01-06
 ---
 
 {% include base_path %}
