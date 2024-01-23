@@ -8,9 +8,9 @@ modified: 2024-01-20
 The presenter is highlighted with <u>an underscore line</u>.
 
 ## Upcoming
-* [March]  <b><u>Sun, X.</u></b>, Doose, J., Faller, J., McIntosh, J.R., Saber, G.T., Huffman, S., Pantazatos, S.P., Yuan, H., Goldman, R.I., Brown, T.R., George, M.S., & Sajda, P. (2024). Brain synchronization as a predictive factor in depression treatment given EEG-synchronized rTMS. <i>American Physical Society 2024 (APS2024) March Meeting</i>
+* [March] <b><u>Sun, X.</u></b>, Doose, J., Faller, J., McIntosh, J.R., Saber, G.T., Huffman, S., Pantazatos, S.P., Yuan, H., Goldman, R.I., Brown, T.R., George, M.S., & Sajda, P. (2024). Brain synchronization as a predictive factor in depression treatment given EEG-synchronized rTMS. <i>American Physical Society 2024 (APS2024) March Meeting</i>
 
-*	[April]  <b><u>Sun, X.</u></b>, Chang, C., Mittal, A., Habeck, C., Stern, Y., & Sajda, P. (2024). Uncovering lifespan-consistent representations in cognitive function through metric learning. <i>In Cognitive Neuroscience Society 2024 (CNS2024) Annual Meeting</i>
+*	[April] <b><u>Sun, X.</u></b>, Chang, C., Mittal, A., Habeck, C., Stern, Y., & Sajda, P. (2024). Uncovering lifespan-consistent representations in cognitive function through metric learning. <i>In Cognitive Neuroscience Society 2024 (CNS2024) Annual Meeting</i>
 
 ## 2023
 *	<b><u>Sun, X.</u></b>, Doose, J., Faller, J., McIntosh, J.R., Saber, G.T., Huffman, S., Pantazatos, S.P., Yuan, H., Goldman, R.I., Brown, T.R., George, M.S., & Sajda, P. (2023). Enhanced entrainment and reduced excitability as predictive neurophysiological markers of efficacious EEG-rTMS treatment for major depressive disorder. <i>Society of Neuroscience 2023 (#SfN23)</i>
