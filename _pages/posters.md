@@ -8,10 +8,7 @@ modified: 2024-01-06
 {% include toc %}
 
 ## 2024
-
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
-
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+*	Sun, X., Chang, C., Mittal, A., Habeck, C., Stern, Y., & Sajda, P. (2024). Uncovering Lifespan-Consistent Representations in Cognitive Function through Metric Learning. In Cognitive Neuroscience Society 2024 (CNS2024) Annual Meeting . 
 
 ### Log Files
 
