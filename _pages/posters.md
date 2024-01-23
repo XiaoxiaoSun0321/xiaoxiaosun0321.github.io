@@ -4,8 +4,6 @@ title: "Conference Abstracts"
 modified: 2024-01-06
 ---
 
-{% include toc %}
-
 ## 2024
 *	Sun, X., Chang, C., Mittal, A., Habeck, C., Stern, Y., & Sajda, P. (2024). Uncovering Lifespan-Consistent Representations in Cognitive Function through Metric Learning. In Cognitive Neuroscience Society 2024 (CNS2024) Annual Meeting . 
 
