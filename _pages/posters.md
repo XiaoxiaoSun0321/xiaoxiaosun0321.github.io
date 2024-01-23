@@ -43,9 +43,9 @@ The presenter is highlighted with <u>an underscore line</u>.
 ## 2021
 *	<b><u>Sun, X.</u></b>, Han, Z., Faller, J., Doose, J., Goldman, R.I., George, M.S., Brown, T.R., & Sajda, P. (2021). EEG alpha phase synchronized repetitive transcranial magnetic stimulation for non-invasive treatment of major depression disorders. <i>2021 Virtual Symposium and Workshop on Brain, Mind and Body: Cognitive Neuroengineering for Health and Wellness (BMB’2021) </i>
 
-* <u>Cycowicz, Y.M.</u>, Rodriguez-Moreno, D.V., <b>Sun, X.</b>, Bista, K., Amsel, L.V., & Hoven, C.W., 2021. Behavioral and brain differences between younger and older adolescents performing a delay discounting task. <i>The Flux 2021 Virtual Congress</i>
+* <u>Cycowicz, Y.M.</u>, Rodriguez-Moreno, D.V., <b>Sun, X.</b>, Bista, K., Amsel, L.V., & Hoven, C.W. (2021). Behavioral and brain differences between younger and older adolescents performing a delay discounting task. <i>The Flux 2021 Virtual Congress</i>
 
-* <u>Amsel, L.V.</u>, Rodriguez-Moreno, D.V., <b>Sun, X.</b>, Hoven, C.W., & Cycowicz, Y.M., 2021. Reaction time and impulsive decision making in a delay discounting task. <i>Society for NeuroEconomics (SNE) 2021 Conference</i>
+* <u>Amsel, L.V.</u>, Rodriguez-Moreno, D.V., <b>Sun, X.</b>, Hoven, C.W., & Cycowicz, Y.M. (2021). Reaction time and impulsive decision making in a delay discounting task. <i>Society for NeuroEconomics (SNE) 2021 Conference</i>
 
 *	Faller, J.*, Doose, J.*, <b><u>Sun, X.</u></b>*, Mclntosh, J.R., Saber, G.T., Lin, Y., Teves, J.B., Blankenship, A., Huffman, S., Goldman, R.I., George, M.S., Brown, T.R., & Sajda, P. (2021). Six weeks of daily prefrontal closed-loop repetitive transcranial magnetic stimulation (rTMS) produces progressive eeg-α phase entrainment in depressed adults. <i>Brain Stimulation: Basic, Translational, and Clinical Research in Neuromodulation, 14(6), p.1624.</i>
 
