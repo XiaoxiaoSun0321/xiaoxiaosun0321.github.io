@@ -3,7 +3,7 @@ permalink: /posters/
 title: "Conference Abstracts"
 modified: 2024-01-06
 ---
-Discover our latest research breakthroughs right here! Please join me for an engaging chat during my poster presentation.
+<span style="color: #0000FF;"> Discover our latest research breakthroughs right here! Please join me for an engaging chat during my poster presentation. </span>
 
 ## Upcoming
 *	Sun, X., Chang, C., Mittal, A., Habeck, C., Stern, Y., & Sajda, P. (2024). Uncovering Lifespan-Consistent Representations in Cognitive Function through Metric Learning. In Cognitive Neuroscience Society 2024 (CNS2024) Annual Meeting . 
