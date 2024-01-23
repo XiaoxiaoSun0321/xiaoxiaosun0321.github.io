@@ -10,7 +10,7 @@ The presenter is highlighted with <u>an underscore line</u>.
 ## Upcoming
 
 
-* <p style="text-align: center;">[March] <b><u>Sun, X.</u></b>, Doose, J., Faller, J., McIntosh, J.R., Saber, G.T., Huffman, S., Pantazatos, S.P., Yuan, H., Goldman, R.I., Brown, T.R., George, M.S., & Sajda, P. (2024). Brain synchronization as a predictive factor in depression treatment given EEG-synchronized rTMS. <i>American Physical Society 2024 (APS2024) March Meeting</i> </p>
+* [March] <b><u>Sun, X.</u></b>, Doose, J., Faller, J., McIntosh, J.R., Saber, G.T., Huffman, S., Pantazatos, S.P., Yuan, H., Goldman, R.I., Brown, T.R., George, M.S., & Sajda, P. (2024). Brain synchronization as a predictive factor in depression treatment given EEG-synchronized rTMS. <i>American Physical Society 2024 (APS2024) March Meeting</i>
 
 *	[April] <b><u>Sun, X.</u></b>, Chang, C., Mittal, A., Habeck, C., Stern, Y., & Sajda, P. (2024). Uncovering lifespan-consistent representations in cognitive function through metric learning. <i>In Cognitive Neuroscience Society 2024 (CNS2024) Annual Meeting</i>
 
@@ -47,7 +47,7 @@ The presenter is highlighted with <u>an underscore line</u>.
 
 *	Faller, J.*, Doose, J.*, Sun, X.*, Mclntosh, J.R., Saber, G.T., Lin, Y., Teves, J.B., Blankenship, A., Huffman, S., Goldman, R.I., George, M.S., Brown, T.R., & Sajda, P. (2021). Six weeks of daily prefrontal closed-loop repetitive transcranial magnetic stimulation (rTMS) produces progressive eeg-α phase entrainment in depressed adults. Brain Stimulation: Basic, Translational, and Clinical Research in Neuromodulation, 14(6), p.1624.
 
-*	Labouesse, M.A., Villarin, J.M., Torres-Herraez, A., Sun, X., Lam, S., Bonaventura, J., Carvalho Poyraz, F., Greenwald, J., Tang, A., Michaelides, M., … & Kellendonk C. (2021). New players in the basal ganglia circuitry: striatal D1R expressing axonal collaterals to the GPe act as a second direct pathway to support motor control. SfN Global Connectome 2021, #P204.02
+*	<u>Labouesse, M.A.</u>, Villarin, J.M., Torres-Herraez, A., Sun, X., Lam, S., Bonaventura, J., Carvalho Poyraz, F., Greenwald, J., Tang, A., Michaelides, M., … & Kellendonk C. (2021). New players in the basal ganglia circuitry: striatal D1R expressing axonal collaterals to the GPe act as a second direct pathway to support motor control. SfN Global Connectome 2021, #P204.02
 
 
 
