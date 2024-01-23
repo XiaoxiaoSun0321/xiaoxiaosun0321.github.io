@@ -4,7 +4,6 @@ title: "Conference Abstracts"
 modified: 2024-01-06
 ---
 
-#{% include base_path %}
 {% include toc %}
 
 ## 2024
