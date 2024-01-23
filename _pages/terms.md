@@ -1,5 +1,5 @@
 ---
-permalink: /posters/
+permalink: /terms/
 title: "Poster Presentations"
 modified: 2024-01-06
 ---
