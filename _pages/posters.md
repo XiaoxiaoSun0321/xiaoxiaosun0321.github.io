@@ -3,19 +3,21 @@ permalink: /posters/
 title: "Conference Abstracts"
 modified: 2024-01-20
 ---
-<b><span style="color: #0000FF;"> Discover our group's latest research breakthroughs right here! Please join me for an engaging chat during my conference presentation. </span></b>
+<b><span style="color: #0000FF;"> Discover our group's latest research breakthroughs right here! Please join me for an engaging chat during the conference presentation. </span></b>
+
+The presenter is highlighted with <u>an underscore line</u>.
 
 ## Upcoming
-* [March] <b><u>Sun, X.</u></b>, Doose, J., Faller, J., McIntosh, J.R., Saber, G.T., Huffman, S., Pantazatos, S.P., Yuan, H., Goldman, R.I., Brown, T.R., George, M.S., & Sajda, P. (2024). Brain synchronization as a predictive factor in depression treatment given EEG-synchronized rTMS. <i>American Physical Society 2024 (APS2024) March Meeting</i> (oral presentation) 
+* [March] <b><u>Sun, X.</u></b>, Doose, J., Faller, J., McIntosh, J.R., Saber, G.T., Huffman, S., Pantazatos, S.P., Yuan, H., Goldman, R.I., Brown, T.R., George, M.S., & Sajda, P. (2024). Brain synchronization as a predictive factor in depression treatment given EEG-synchronized rTMS. <i>American Physical Society 2024 (APS2024) March Meeting</i> [oral presentation] 
 
-*	[April] <b><u>Sun, X.</u></b>, Chang, C., Mittal, A., Habeck, C., Stern, Y., & Sajda, P. (2024). Uncovering Lifespan-Consistent Representations in Cognitive Function through Metric Learning. <i>In Cognitive Neuroscience Society 2024 (CNS2024) Annual Meeting</i>. (poster)
+*	[April] <b><u>Sun, X.</u></b>, Chang, C., Mittal, A., Habeck, C., Stern, Y., & Sajda, P. (2024). Uncovering Lifespan-Consistent Representations in Cognitive Function through Metric Learning. <i>In Cognitive Neuroscience Society 2024 (CNS2024) Annual Meeting</i>. [poster]
 
 ## 2023
-*	Sun, X., Doose, J., Faller, J., McIntosh, J.R., Saber, G.T., Huffman, S., Pantazatos, S.P., Yuan, H., Goldman, R.I., Brown, T.R., George, M.S., & Sajda, P. (2023). Enhanced entrainment and reduced excitability as predictive neurophysiological markers of efficacious EEG-rTMS treatment for major depressive disorder. Society of Neuroscience 2023 (#SfN23) [poster]
+*	<b><u>Sun, X.</u></b>, Doose, J., Faller, J., McIntosh, J.R., Saber, G.T., Huffman, S., Pantazatos, S.P., Yuan, H., Goldman, R.I., Brown, T.R., George, M.S., & Sajda, P. (2023). Enhanced entrainment and reduced excitability as predictive neurophysiological markers of efficacious EEG-rTMS treatment for major depressive disorder. <i>Society of Neuroscience 2023 (#SfN23)</i> [poster]
 
-*	He, H., Sun, X., Doose, J., Blankenship, A., Mclntosh, J.R., Saber, G.T., Faller, J., Lin, Y., Teves, J.B., Huffman, S., Pantazatos, S.P., Goldman, R.I., George, M.S., Brown, T.R., & Sajda, P. (2023). Associations of EEG-synchronized rTMS treatment of depression with changes in modulated functional connectivity: a concurrent fMRI-EEG-TMS study. Society of Neuroscience 2023 (#SfN23)
+*	<u>He, H.</b>, <u>Sun, X.</u>, Doose, J., Blankenship, A., Mclntosh, J.R., Saber, G.T., Faller, J., Lin, Y., Teves, J.B., Huffman, S., Pantazatos, S.P., Goldman, R.I., George, M.S., Brown, T.R., & Sajda, P. (2023). Associations of EEG-synchronized rTMS treatment of depression with changes in modulated functional connectivity: a concurrent fMRI-EEG-TMS study. <i>Society of Neuroscience 2023 (#SfN23)</i> [oral presentation] 
 
-*	Sun, X., & Sajda, P. (2023). Preserving diagnostic features in compressed physiological data using persistent homology. In IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI’23). 
+*	<b><u>Sun, X.</u></b>, & Sajda, P. (2023). Preserving diagnostic features in compressed physiological data using persistent homology. <i>In IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI’23) </i>. [poster] 
 
 
 
