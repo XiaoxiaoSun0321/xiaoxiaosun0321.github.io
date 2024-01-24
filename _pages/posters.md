@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /posters/
 title: "Conference Abstracts"
 modified: 2024-01-20
