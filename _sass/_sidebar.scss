@@ -57,11 +57,11 @@
     float: right;
     width: $right-sidebar-width-narrow;
     margin-left: span(4 of 6);
-    z-index: 10;
+    z-index: 1000;
   }
   
   @include breakpoint($x-large) {
-    width: 100px;
+    width: 200px;
   }
 }
 
