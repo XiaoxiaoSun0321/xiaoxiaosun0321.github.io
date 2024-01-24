@@ -4,11 +4,12 @@ title: "Conference Abstracts"
 modified: 2024-01-20
 ---
 {% include base_path %}
+{% include toc %}
 
 <b><span style="color: #0000FF;"> Discover our group's latest research breakthroughs right here! Please join me for an engaging chat during the conference presentation. </span></b>
 
 The presenter is highlighted with <u>an underscore line</u>.
-{% include toc %}
+
 ## Upcoming
 * [March] <b><u>Sun, X.</u></b>, Doose, J., Faller, J., McIntosh, J.R., Saber, G.T., Huffman, S., Pantazatos, S.P., Yuan, H., Goldman, R.I., Brown, T.R., George, M.S., & Sajda, P. (2024). Brain synchronization as a predictive factor in depression treatment given EEG-synchronized rTMS. <i>American Physical Society 2024 (APS2024) March Meeting</i>
 
