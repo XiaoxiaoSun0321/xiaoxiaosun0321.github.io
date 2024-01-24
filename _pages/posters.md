@@ -4,7 +4,6 @@ title: "Conference Abstracts"
 modified: 2024-01-20
 ---
 {% include base_path %}
-{% include toc %}
 
 <b><span style="color: #0000FF;"> Discover our group's latest research breakthroughs right here! Please join me for an engaging chat during the conference presentation. </span></b>
 
