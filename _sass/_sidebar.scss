@@ -56,8 +56,8 @@
     position: relative;
     float: right;
     width: $right-sidebar-width-narrow;
-    margin-left: span(10 of 12);
-    z-index: 1000;
+    margin-left: span(5 of 12);
+    z-index: 20;
   }
   
   @include breakpoint($x-large) {
