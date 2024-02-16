@@ -49,7 +49,7 @@ The presenter is highlighted with <u>an underscore line</u>.
 
 * <u>Amsel, L.V.</u>, Rodriguez-Moreno, D.V., <b>Sun, X.</b>, Hoven, C.W., & Cycowicz, Y.M. (2021). Reaction time and impulsive decision making in a delay discounting task. <i>Society for NeuroEconomics (SNE) 2021 Conference</i>
 
-*	Faller, J.*, Doose, J.*, <b><u>Sun, X.</u></b>*, Mclntosh, J.R., Saber, G.T., Lin, Y., Teves, J.B., Blankenship, A., Huffman, S., Goldman, R.I., George, M.S., Brown, T.R., & Sajda, P. (2021). Six weeks of daily prefrontal closed-loop repetitive transcranial magnetic stimulation (rTMS) produces progressive eeg-α phase entrainment in depressed adults. <i>Brain Stimulation: Basic, Translational, and Clinical Research in Neuromodulation, 14(6), p.1624.</i>
+*	Faller, J. *, Doose, J. *, <b><u>Sun, X.</u></b>*, Mclntosh, J.R., Saber, G.T., Lin, Y., Teves, J.B., Blankenship, A., Huffman, S., Goldman, R.I., George, M.S., Brown, T.R., & Sajda, P. (2021). Six weeks of daily prefrontal closed-loop repetitive transcranial magnetic stimulation (rTMS) produces progressive eeg-α phase entrainment in depressed adults. <i>Brain Stimulation: Basic, Translational, and Clinical Research in Neuromodulation, 14(6), p.1624.</i>
 
 *	<u>Labouesse, M.A.</u>, Villarin, J.M., Torres-Herraez, A., <b>Sun, X.</b>, Lam, S., Bonaventura, J., Carvalho Poyraz, F., Greenwald, J., Tang, A., Michaelides, M., … & Kellendonk C. (2021). New players in the basal ganglia circuitry: striatal D1R expressing axonal collaterals to the GPe act as a second direct pathway to support motor control. <i>SfN Global Connectome 2021, #P204.02</i>
 
