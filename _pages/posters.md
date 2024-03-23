@@ -5,7 +5,7 @@ modified: 2024-01-20
 ---
 {% include base_path %}
 
-<b><span style="color: #0000FF;"> Discover our group's latest research breakthroughs right here! Please join me for an engaging chat during the conference presentation. </span></b>
+<b><span style="color: #0000FF;"> Discover our group's latest research breakthroughs right here! Please join us for an engaging chat during the conference presentation. </span></b>
 
 The presenter is highlighted with <u>an underscore line</u>.
 
