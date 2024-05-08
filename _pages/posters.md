@@ -10,7 +10,8 @@ modified: 2024-01-20
 The presenter is highlighted with <u>an underscore line</u>.
 
 ## Upcoming
-*	[July] IEEE EMBC To be announced! 
+*	[July] <u>Qin, Y.</u>, Zhang, W., Lee, R., <b>Sun, X.</b>, & Sajda, P. (2024). Pupil-linked arousal is predictive of team performance in a virtual reality (VR) sensory-motor task. <i>In 2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) </i>
+* [July] <b><u>Sun, X.</u></b>, Zhao, C., Koorathota, S., & Sajda, P. (2024). EEG-estimated functional connectivity, and not behavior, differentiates Parkinson's patients from health controls during the Simon conflict task. <i>In 2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) </i>
 
 ## 2024
 * <b>Sun, X.</b>, <u>Chang, C.</u>, Mittal, A., Habeck, C., Stern, Y., & Sajda, P. (2024). Uncovering lifespan-consistent representations in cognitive function through metric learning. <i>In Cognitive Neuroscience Society 2024 (CNS2024) Annual Meeting</i>
