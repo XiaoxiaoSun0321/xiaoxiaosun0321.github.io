@@ -53,6 +53,8 @@ Teaching
 
 Honors & Awards (since 2020)
 ======
+* <b>2024</b>  IEEE EMBC NextGen Scholar Award
+* <b>2023</b>  [Monthly Spotlight – December 2023](https://www.bme.columbia.edu/december-2023-bme-blaze-xiaoxiao-sun), Biomedical Engineering Blaze
 * <b>2023</b>  IEEE BHI’23 National Science Foundation (NSF) Student Travel Award
 * <b>2023</b>  Selected as 2023 Cohorts of Columbia’s Program for for Diversity and Inclusion in Commercialization and Entrepreneurship (DICE) 
 * <b>2023</b>  Young Scientist, 49th Northeastern Biomedical Engineering Conference
@@ -60,9 +62,11 @@ Honors & Awards (since 2020)
 * <b>2021</b>  1st prize, BMB’ 2021 Student Best Poster Award
 * <b>2020</b>  Data Institute Scholarship, Data Science Institute (DSI) Scholars Program
 
-Service & Leadership (since 2020)
+Leadership & Outreach (since 2020)
 ======
-* University Life Ambassador, University Life, Aug 2023 – Present
+* IEEE EMBS Student Activities Committee – North America Chair, May 2024 – Present
+* IEEE EMBS Student Activities Committee – EMBC Annual Meeting Team Leader, Apr 2024 – Present
+* University Life Ambassador, University Life, Aug 2023 – May 2024 
 * IEEE Student Ambassador, IEEEXtreme17.0, May 2023 – Oct 2023
 * Department Representative, Engineering Graduate Student Council (EGSC), Jan 2023 – Jun 2023
 * Treasurer, Graduate Society of Women Engineers (GradSWE), Jan 2020 – Dec 2020
