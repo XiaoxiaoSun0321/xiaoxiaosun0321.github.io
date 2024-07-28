@@ -10,7 +10,8 @@ modified: 2024-06-20
 The presenter is highlighted with <u>an underscore line</u>.
 
 ## Upcoming
-*	[Aug] <b><u>Sun, X.</u></b>, Doose, J., Faller, J., McIntosh, J.R., Saber, G.T., Huffman, S., Pantazatos, S.P., Yuan, H., Goldman, R.I., Brown, T.R., George, M.S., & Sajda, P. (2024). Biomarkers predict the efficacy of closed-loop rTMS treatment for refractory depression. <i>2024 NYC Neuromodulation Conference</i>
+*	[Aug] <b><u>Sun, X.</u></b>, Doose, J., Faller, J., McIntosh, J.R., Saber, G.T., Huffman, S., Pantazatos, S.P., Yuan, H., Goldman, R.I., Brown, T.R., George, M.S., & Sajda, P. (2024). Increased entrainment and decreased excitability predict efficacious treatment for major depressive disorder patients given EEG-synchronized rTMS. <i>2024 NYC Neuromodulation Conference</i>  
+
 
 ## 2024
 *	<u>Qin, Y.</u>, Zhang, W., Lee, R., <b>Sun, X.</b>, & Sajda, P. (2024). Pupil-linked arousal is predictive of team performance in a virtual reality (VR) sensory-motor task. <i>In 2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) </i>
