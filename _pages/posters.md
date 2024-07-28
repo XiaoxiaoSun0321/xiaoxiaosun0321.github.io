@@ -10,10 +10,13 @@ modified: 2024-06-20
 The presenter is highlighted with <u>an underscore line</u>.
 
 ## Upcoming
-*	[July] <u>Qin, Y.</u>, Zhang, W., Lee, R., <b>Sun, X.</b>, & Sajda, P. (2024). Pupil-linked arousal is predictive of team performance in a virtual reality (VR) sensory-motor task. <i>In 2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) </i>
-* [July] <b><u>Sun, X.</u></b>, Zhao, C., Koorathota, S., & Sajda, P. (2024). EEG-estimated functional connectivity, and not behavior, differentiates Parkinson's patients from health controls during the Simon conflict task. <i>In 2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) </i>
+*	[Aug] <b><u>Sun, X.</u></b>, Doose, J., Faller, J., McIntosh, J.R., Saber, G.T., Huffman, S., Pantazatos, S.P., Yuan, H., Goldman, R.I., Brown, T.R., George, M.S., & Sajda, P. (2024). Biomarkers predict the efficacy of closed-loop rTMS treatment for refractory depression. <i>2024 NYC Neuromodulation Conference</i>
 
 ## 2024
+*	<u>Qin, Y.</u>, Zhang, W., Lee, R., <b>Sun, X.</b>, & Sajda, P. (2024). Pupil-linked arousal is predictive of team performance in a virtual reality (VR) sensory-motor task. <i>In 2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) </i>
+
+* <b><u>Sun, X.</u></b>, Zhao, C., Koorathota, S., & Sajda, P. (2024). EEG-estimated functional connectivity, and not behavior, differentiates Parkinson's patients from health controls during the Simon conflict task. <i>In 2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) </i>
+
 * <b>Sun, X.</b>, <u>Chang, C.</u>, Mittal, A., Habeck, C., Stern, Y., & Sajda, P. (2024). Uncovering lifespan-consistent representations in cognitive function through metric learning. <i>In Cognitive Neuroscience Society 2024 (CNS2024) Annual Meeting</i>
 
 * <b><u>Sun, X.</u></b>, Doose, J., Faller, J., McIntosh, J.R., Saber, G.T., Huffman, S., Pantazatos, S.P., Yuan, H., Goldman, R.I., Brown, T.R., George, M.S., & Sajda, P. (2024). Brain synchronization as a predictive factor in depression treatment given EEG-synchronized rTMS. <i>American Physical Society 2024 (APS2024) March Meeting</i>
