@@ -10,7 +10,7 @@ modified: 2024-09-05
 The presenter is highlighted with <u>an underscore line</u>.
 
 ## Upcoming
-* [Oct] <u>Lees, C.</u>, <b>Sun, X.</b>, Sajda, P. & Tolston, M. (2024). Sublevel set persistent homology for distance-based classification of 1-dimensional time series. <i>IEEE VIS 2024 TopoInVis</i>
+* [Oct] <u>Lees, C.</u>, <b>Sun, X.</b>, Sajda, P., & Tolston, M. (2024). Sublevel set persistent homology for distance-based classification of 1-dimensional time series. <i>IEEE Visualization and Visual Analytics Conference (VIS) 2024 TopoInVis</i>
 
 ## 2024
 *	<b><u>Sun, X.</u></b>, Doose, J., Faller, J., McIntosh, J.R., Saber, G.T., Huffman, S., Pantazatos, S.P., Yuan, H., Goldman, R.I., Brown, T.R., George, M.S., & Sajda, P. (2024). Increased entrainment and decreased excitability predict efficacious treatment for major depressive disorder patients given EEG-synchronized rTMS. <i>2024 NYC Neuromodulation Conference</i>  
