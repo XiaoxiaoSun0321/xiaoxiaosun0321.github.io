@@ -7,7 +7,8 @@ modified: 2024-09-05
 
 <b><span style="color: #0000FF;"> Discover our group's latest research breakthroughs right here! Please join us for an engaging chat during the conference presentation. </span></b>
 
-The presenter is highlighted with <u>an underscore line</u>. At times, I may lose track of the submitted abstract details, so I kindly ask that you also refer to our collaborator's description for reference.
+The presenter is highlighted with <u>an underscore line</u>. 
+At times, I may lose track of the submitted abstract details, so I kindly ask that you also refer to our collaborator's description for reference.
 
 ## Upcoming
 * [Oct] <u>Lees, C.</u>, <b>Sun, X.</b>, Sajda, P., & Tolston, M. (2024). Sublevel set persistent homology for distance-based classification of 1-dimensional time series. <i>IEEE Visualization and Visual Analytics Conference (VIS) 2024 TopoInVis</i>
