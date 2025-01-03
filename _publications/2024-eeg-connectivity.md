@@ -1,5 +1,5 @@
 ---
-title: "EEG-estimated functional connectivity, and not behavior, differentiates Parkinson's patients from health controls during the Simon conflict task"
+title: "EEG"
 collection: publications
 permalink: /publication/2024-eeg-connectivity
 date: 2024-06-19
