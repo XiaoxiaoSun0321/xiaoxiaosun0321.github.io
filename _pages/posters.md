@@ -11,9 +11,13 @@ The presenter is highlighted with <u>an underscore line</u>.
 At times, I may lose track of the submitted abstract details, so I kindly ask that you also refer to our collaborator's description for reference.
 
 ## Upcoming
-* [Oct] <u>Lees, C.</u>, <b>Sun, X.</b>, Sajda, P., & Tolston, M. (2024). Sublevel set persistent homology for distance-based classification of 1-dimensional time series. <i>IEEE Visualization and Visual Analytics Conference (VIS) 2024 TopoInVis</i>
+* [Feb] <b><u>Sun, X.</u></b>, Chen, Z., Doose, J., Faller, J., McIntosh, J.R., Saber, G.T., Huffman, S., Settle, E., Blankenship, A., Pantazatos, S.P., Yuan, H., McTeague, L., Goldman, R.I., Brown, T.R., George, M.S., & Sajda, P. (2024). Pre-treatment heart rate dynamics and their association with rTMS treatment response in major depressive disorder: evidence from a concurrent fMRI-EEG-TMS study. <i>Brain Stimulation: Basic, Translational, and Clinical Research in Neuromodulation</i>
+
+* [March] <b><u>Sun, X.</u></b>, Rungratsameetaweemana, N., Lees, C., Tolston, M., Funke G., Wang, Q., & Sajda, P. (2024). Good-enough feature representations with persistent homology in physiological systems. <i>American Physical Society 2024 (APS2024) March Meeting</i>
 
 ## 2024
+* <u>Lees, C.</u>, <b>Sun, X.</b>, Sajda, P., & Tolston, M. (2024). Sublevel set persistent homology for distance-based classification of 1-dimensional time series. <i>IEEE Visualization and Visual Analytics Conference (VIS) 2024 TopoInVis</i>
+
 *	<b><u>Sun, X.</u></b>, Doose, J., Faller, J., McIntosh, J.R., Saber, G.T., Huffman, S., Pantazatos, S.P., Yuan, H., Goldman, R.I., Brown, T.R., George, M.S., & Sajda, P. (2024). Increased entrainment and decreased excitability predict efficacious treatment for major depressive disorder patients given EEG-synchronized rTMS. <i>2024 NYC Neuromodulation Conference</i>  
 
 *	<u>Qin, Y.</u>, Zhang, W., Lee, R., <b>Sun, X.</b>, & Sajda, P. (2024). Pupil-linked arousal is predictive of team performance in a virtual reality (VR) sensory-motor task. <i>In 2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) </i>
