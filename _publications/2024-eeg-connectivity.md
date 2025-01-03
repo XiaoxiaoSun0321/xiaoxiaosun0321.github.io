@@ -1,5 +1,5 @@
 ---
-title: "Daily prefrontal closed-loop repetitive transcranial magnetic stimulation (rTMS) produces progressive EEG quasi-alpha phase entrainment in depressed adults"
+title: "EEG-estimated functional connectivity, and not behavior, differentiates Parkinson's patients from health controls during the Simon conflict task"
 collection: publications
 permalink: /publication/2022-phase-entrainment
 date: 2022-03-01
