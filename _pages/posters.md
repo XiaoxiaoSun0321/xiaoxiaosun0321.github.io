@@ -11,7 +11,7 @@ The presenter is highlighted with <u>an underscore line</u>.
 At times, I may lose track of the submitted abstract details, so I kindly ask that you also refer to our collaborator's description for reference.
 
 ## Upcoming
-* [Feb] <b><u>Sun, X.</u></b>, Chen, Z., Doose, J., Faller, J., McIntosh, J.R., Saber, G.T., Huffman, S., Settle, E., Blankenship, A., Pantazatos, S.P., Yuan, H., McTeague, L., Goldman, R.I., Brown, T.R., George, M.S., & Sajda, P. (2025). Pre-treatment heart rate dynamics and their association with rTMS treatment response in major depressive disorder: evidence from a concurrent fMRI-EEG-TMS study. <i>Brain Stimulation: Basic, Translational, and Clinical Research in Neuromodulation</i>
+* [Feb] <b>Sun, X.</b>, Chen, Z., <u>Doose, J.</u>, Faller, J., McIntosh, J.R., Saber, G.T., Huffman, S., Settle, E., Blankenship, A., Pantazatos, S.P., Yuan, H., McTeague, L., Goldman, R.I., Brown, T.R., George, M.S., & Sajda, P. (2025). Pre-treatment heart rate dynamics and their association with rTMS treatment response in major depressive disorder: evidence from a concurrent fMRI-EEG-TMS study. <i>Brain Stimulation: Basic, Translational, and Clinical Research in Neuromodulation</i>
 
 * [March] <b><u>Sun, X.</u></b>, Rungratsameetaweemana, N., Lees, C., Tolston, M., Funke G., Wang, Q., & Sajda, P. (2025). Good-enough feature representations with persistent homology in physiological systems. <i>American Physical Society 2025 (APS2025) March Meeting</i>
 
