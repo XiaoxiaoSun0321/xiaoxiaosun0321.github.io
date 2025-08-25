@@ -11,7 +11,7 @@ The presenter is highlighted with <u>an underscore line</u>.
 At times, I may lose track of the submitted abstract details, so I kindly ask that you also refer to our collaborator's description for reference.
 
 ## Upcoming
-* <b><u>Sun, X.</u></b>, Ye, X., Gong, R., Doose, J., Chang, C., Ping, C., Hashrmpour, S., Eade, J., Williams, A., Doyle, G., Hong, L., Sege, C., Taylor, D., Schneck, N., Goldman, R., George, M.S., Sajda, P., & McTeague, L.M. (2025). Decoding Cognitive Flexibility with EEG in Individuals with Depression and Suicide Attempts <i>In 12th International IEEE EMBS Conference on Neural Engineering (IEEE-NER25) </i>
+* [Nov] <b><u>Sun, X.</u></b>, Ye, X., Gong, R., Doose, J., Chang, C., Ping, C., Hashrmpour, S., Eade, J., Williams, A., Doyle, G., Hong, L., Sege, C., Taylor, D., Schneck, N., Goldman, R., George, M.S., Sajda, P., & McTeague, L.M. (2025). Decoding Cognitive Flexibility with EEG in Individuals with Depression and Suicide Attempts <i>In 12th International IEEE EMBS Conference on Neural Engineering (IEEE-NER25) </i>
 
 ## 2025
 * <b>Sun, X.</b>, Chen, Z., <u>Doose, J.</u>, Faller, J., McIntosh, J.R., Saber, G.T., Huffman, S., Settle, E., Blankenship, A., Pantazatos, S.P., Yuan, H., McTeague, L., Goldman, R.I., Brown, T.R., George, M.S., & Sajda, P. (2025). Pre-treatment heart rate dynamics and their association with rTMS treatment response in major depressive disorder: evidence from a concurrent fMRI-EEG-TMS study. <i>Brain Stimulation: Basic, Translational, and Clinical Research in Neuromodulation</i>
