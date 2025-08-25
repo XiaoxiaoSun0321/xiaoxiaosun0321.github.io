@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Biomedical Engineering, Columbia University, in progress
+* Ph.D. in Biomedical Engineering, Columbia University, 2025
 * M.S. in Biomedical Engineering, Columbia University, 2021
 * B.A. in Mathematics and Economics (dual degree), Baruch College, City University of New York, 2018
 
 Research Experience (since 2020)
 ======
-* Greduate Research Assistant, Columbia University, Jun 2019 -- Present
+* Greduate Research Assistant, Columbia University, Jun 2019 -- Aug 2025
   * <i>[Laboratory for Intelligent Imaging and Neural Computing (LIINC)](https://liinc.bme.columbia.edu)</i>, PI: [Dr. Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda)
   * <b>Main focus</b>: simultaneous fMRI-EEG-TMS and EEG-rTMS systems, neuromodulation, bioinformatics, brain computer interface (BCI)
 
