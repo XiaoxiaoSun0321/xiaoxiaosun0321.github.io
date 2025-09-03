@@ -67,12 +67,14 @@ Honors & Awards (since 2020)
 ======
 * <b>2025</b>  Trainee Professional Development Award, Society for Neuroscience (SfN)
 * <b>2025</b>  Selected Attendee, Conference for Graduate Women and Gender Minorities in Physics
+* <b>2024</b>  [Hughes Holden Fellow](https://hughesholdenfoundation.org/)
 * <b>2024</b>  IEEE EMBC NextGen Scholar Award
 * <b>2023</b>  [Monthly Spotlight – December 2023](https://www.bme.columbia.edu/december-2023-bme-blaze-xiaoxiao-sun), Biomedical Engineering Blaze
 * <b>2023</b>  IEEE BHI’23 National Science Foundation (NSF) Student Travel Award
 * <b>2023</b>  Selected as 2023 Cohorts of Columbia’s Program for Diversity and Inclusion in Commercialization and Entrepreneurship (DICE) 
 * <b>2023</b>  Young Scientist, 49th Northeastern Biomedical Engineering Conference
 * <b>2023</b>  Abstract Promotion - Outreach to the Press, American Physical Society (APS2023)
+* <b>2021</b>  DEVCOM Army Research Laboratory (ARL) Journeyman Fellowship
 * <b>2021</b>  1st prize, BMB’ 2021 Student Best Poster Award
 * <b>2020</b>  Data Institute Scholarship, Data Science Institute (DSI) Scholars Program
 
