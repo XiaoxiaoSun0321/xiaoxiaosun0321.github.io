@@ -18,12 +18,12 @@ Education
 Research Experience (since 2020)
 ======
 * Assistant Professor, The Pennsylvania State University, Aug 2026 --
-  * <i>Laboratory for Synchronized Neuroengineering, Neurostimulation & Computation（SNNC Lab）</i>, Department of Biomedical Engineering
-  * <b>Main focus</b>: Neurostimulation, neuroimaging, computational modeling (AI), multimodal brain computer interface (BCI)
+  * <i>Laboratory for Synchronized Neuroengineering, Neurostimulation & Computation (SNNC Lab)</i>, Department of Biomedical Engineering
+  * <b>Main focus</b>: Neurostimulation, neuroimaging, computational modeling/AI, multimodal BCI
 
 * Assistant Research Professor, The Pennsylvania State University, Sep 2025 - Aug 2026
-  * <i>Laboratory for Synchronized Neuroengineering, Neurostimulation & Computation（SNNC Lab）</i>, Department of Biomedical Engineering
-  * <b>Main focus</b>: Neurostimulation, neuroimaging, computational modeling (AI), multimodal brain computer interface (BCI)
+  * <i>Laboratory for Synchronized Neuroengineering, Neurostimulation & Computation (SNNC Lab)</i>, Department of Biomedical Engineering
+  * <b>Main focus</b>: Neurostimulation, neuroimaging, computational modeling/AI, multimodal BCI
 
 * Greduate Research Assistant, Columbia University, Jun 2019 -- Aug 2025
   * <i>[Laboratory for Intelligent Imaging and Neural Computing (LIINC)](https://liinc.bme.columbia.edu)</i>, PI: [Dr. Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda)
