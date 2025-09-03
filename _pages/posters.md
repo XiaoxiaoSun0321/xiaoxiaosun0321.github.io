@@ -12,7 +12,8 @@ At times, I may lose track of the submitted abstract details, so I kindly ask th
 
 ## Upcoming
 * [Nov] <b><u>Sun, X.</u></b>, Ye, X., Gong, R., Doose, J., Chang, C., Ping, C., Hashrmpour, S., Eade, J., Williams, A., Doyle, G., Hong, L., Sege, C., Taylor, D., Schneck, N., Goldman, R., George, M.S., Sajda, P., & McTeague, L.M. (2025). Decoding cognitive flexibility with EEG in individuals with depression and suicide attempts <i>In 12th International IEEE EMBS Conference on Neural Engineering (IEEE-NER25) </i>
-* <b><u>Sun, X.</u></b>, Chang, C., He, H., Mittal, A., Habeck, C., Stern, Y., & Sajda, P. (2025). Uncovering lifespan-consistent brain representations in cognitive function via task decoding. <i>Society of Neuroscience 2025 (#SfN25)</i>
+* [Nov] <b><u>Sun, X.</u></b>, Chang, C., He, H., Mittal, A., Habeck, C., Stern, Y., & Sajda, P. (2025). Uncovering lifespan-consistent brain representations in cognitive function via task decoding. <i>Society of Neuroscience 2025 (#SfN25)</i>
+* [Nov] <u>Gong, R.</u>, <b>Sun, X.</b>, Doose, J., Hashrmpour, S., Ping, C., Eade, J., Doyle, G., Williams, A., Hong, L., Goldman, R., Brown, T.R., George, M.S., Sajda, P., & McTeague, L.M. (2025). Transient oscillatory bursts as biomarkers for phase-locked rTMS treatment in major depressive disorder. <i>Society of Neuroscience 2025 (#SfN25)</i>
 
 ## 2025
 * <b>Sun, X.</b>, Chen, Z., <u>Doose, J.</u>, Faller, J., McIntosh, J.R., Saber, G.T., Huffman, S., Settle, E., Blankenship, A., Pantazatos, S.P., Yuan, H., McTeague, L., Goldman, R.I., Brown, T.R., George, M.S., & Sajda, P. (2025). Pre-treatment heart rate dynamics and their association with rTMS treatment response in major depressive disorder: evidence from a concurrent fMRI-EEG-TMS study. <i>Brain Stimulation: Basic, Translational, and Clinical Research in Neuromodulation</i>
