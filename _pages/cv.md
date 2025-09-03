@@ -29,7 +29,7 @@ Research Experience (since 2020)
   * <i>[Laboratory for Intelligent Imaging and Neural Computing (LIINC)](https://liinc.bme.columbia.edu)</i>, PI: [Dr. Paul Sajda](https://www.bme.columbia.edu/faculty/paul-sajda)
   * <b>Main focus</b>: simultaneous fMRI-EEG-TMS and EEG-rTMS systems, neuromodulation, bioinformatics, BCI
 
-* Student Researcher, GoogleDeepMind, Sep 2024 -- Jan 2025
+* Student Researcher, Google DeepMind, Sep 2024 -- Jan 2025
   * Host: Tao Tu & Vivek Natarajan
   * <b>Main focus</b>: foundation model for neural datasets (e.g., EEG and fMRI)
 
