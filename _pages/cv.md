@@ -17,10 +17,6 @@ Education
 
 Research Experience (since 2020)
 ======
-* Assistant Professor, The Pennsylvania State University, Aug 2026 --
-  * <i>[Laboratory for Synchronized Neuroengineering, Neurostimulation & Computation (SNNC Lab)](https://sites.psu.edu/snnclab/)</i>, Department of Biomedical Engineering
-  * <b>Main focus</b>: Neurostimulation, neuroimaging, computational modeling/AI, multimodal BCI
-
 * Assistant Research Professor, The Pennsylvania State University, Sep 2025 -- Aug 2026
   * <i>[Laboratory for Synchronized Neuroengineering, Neurostimulation & Computation (SNNC Lab)](https://sites.psu.edu/snnclab/)</i>, Department of Biomedical Engineering
   * <b>Main focus</b>: Neurostimulation, neuroimaging, computational modeling/AI, multimodal BCI
