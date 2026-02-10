@@ -11,7 +11,7 @@ The presenter is highlighted with <u>an underscore line</u>.
 At times, I may lose track of the submitted abstract details, so I kindly ask that you also refer to our collaborator's description for reference.
 
 ## Upcoming
-* [Mar] Ye, X., Jhaveri, K., Sun, Z., Simani, L., Sajda, P., Leavitt V.M., & <b><u>Sun, X.</u></b> (2025). Brain activation mediates age-related differences in cognition across memory domains. <i>In Cognitive Neuroscience Society 2026 (CNS2026) Annual Meeting</i>
+* [Mar] Ye, X., Jhaveri, K., Sun, Z., Simani, L., Sajda, P., Leavitt V.M., & <b><u>Sun, X.</u></b> (2026). Brain activation mediates age-related differences in cognition across memory domains. <i>In Cognitive Neuroscience Society 2026 (CNS2026) Annual Meeting</i>
 
 ## 2025
 * <b><u>Sun, X.</u></b>, Ye, X., Gong, R., Doose, J., Chang, C., Ping, C., Hashrmpour, S., Eade, J., Williams, A., Doyle, G., Hong, L., Sege, C., Taylor, D., Schneck, N., Goldman, R., George, M.S., Sajda, P., & McTeague, L.M. (2025). Decoding cognitive flexibility with EEG in individuals with depression and suicide attempts <i>In 12th International IEEE EMBS Conference on Neural Engineering (IEEE-NER25) </i>
