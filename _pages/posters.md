@@ -14,6 +14,8 @@ At times, I may lose track of the submitted abstract details, so I kindly ask th
 * [May] Pan, B., <b><u>Sun, X.</u></b>, Shah, B., & Geronimo, A. (2026). Graph Priors Improve Seizure Onset Zone Identification in a Graph Convolutional Network of StereoEEG. <i>industryXchange 2026: Engineering Innovation with AI</i>
 
 ## 2026
+* <b><u>Sun, X.</u></b>, Doose, J., Faller, J., Gong, R., McIntosh, J., Chang, C., He, H., Huffman, S., Ping, C., Hashrmpour, S., Williams, A., Doyle, G., Hong, L., Sege, C., Saber, G., Pantazatos, S., Taylor, D., Schneck, N., Yuan, H., Goldman, R., Brown, T., George, M., McTeague, L., & Sajda, P.(2026). Brain synchronization as a predictive factor in depression treatment given EEG-synchronized rTMS <i>American Physical Society 2026 (APS2026) March Meeting</i>
+
 * Ye, X., Jhaveri, K., Sun, Z., Simani, L., Sajda, P., Leavitt V.M., & <b><u>Sun, X.</u></b> (2026). Brain activation mediates age-related differences in cognition across memory domains. <i>In Cognitive Neuroscience Society 2026 (CNS2026) Annual Meeting</i>
 
 ## 2025
